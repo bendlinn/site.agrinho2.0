@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-start; /* Align to the top of the container */
-    min-height: 100vh;
+    min-height: 1200vh;
     box-sizing: border-box; /* Include padding in element's total width and height */
 }
 
