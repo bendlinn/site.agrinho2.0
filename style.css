@@ -42,7 +42,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 30px;
-    max-width: 1200px; /* Adjust as needed */
+    max-width: 12000px; /* Adjust as needed */
     width: 100%;
     margin-top: 60px; /* Adjust based on header height */
     position: relative; /* For proper positioning of elements within */
