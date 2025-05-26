@@ -87,7 +87,7 @@ body {
 }
 
 .roadtrip-image img {
-    max-width: 120px;
+    max-width: 300px;
     height: auto;
     display: block; /* Remove extra space below image */
     margin-bottom: 5px;
